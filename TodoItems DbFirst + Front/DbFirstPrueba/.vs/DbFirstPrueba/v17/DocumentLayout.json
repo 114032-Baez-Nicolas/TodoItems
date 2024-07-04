@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\services\\todoitemsservices\\todoitemserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\services\\todoitemsservices\\todoitemserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\services\\todoitemsservices\\itodoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\services\\todoitemsservices\\itodoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\dtos\\todoitemdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\dtos\\todoitemdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\dtos\\dtoitemputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\dtos\\dtoitemputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\dtos\\todoitempostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\dtos\\todoitempostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\mapping\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\mapping\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\dtos\\todoitemgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\dtos\\todoitemgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\dtos\\categoriagetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\dtos\\categoriagetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\dtos\\dtotareacategoriaget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\dtos\\dtotareacategoriaget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\dtos\\todoitemputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\dtos\\todoitemputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\modelsdatabase\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\modelsdatabase\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\modelsdatabase\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\modelsdatabase\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\modelsdatabase\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\modelsdatabase\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|c:\\users\\niquitou\\desktop\\todoitems dbfirst \u002B front\\dbfirstprueba\\dbfirstprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36D6B9C3-D634-411A-8850-06201A9D91C4}|DbFirstPrueba\\DbFirstPrueba.csproj|solutionrelative:dbfirstprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\appsettings.json",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\appsettings.json",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\appsettings.json",
+              "RelativeToolTip": "DbFirstPrueba\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T18:56:42.458Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Program.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:56:57.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Controllers\\TodoItemController.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Controllers\\TodoItemController.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Controllers\\TodoItemController.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Controllers\\TodoItemController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:00:32.016Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItemDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemDeleteDto.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Dtos\\TodoItemDeleteDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemDeleteDto.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Dtos\\TodoItemDeleteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:39:07.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtoItemPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\DtoItemPutDto.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Dtos\\DtoItemPutDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\DtoItemPutDto.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Dtos\\DtoItemPutDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:38:57.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItemGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemGetDto.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Dtos\\TodoItemGetDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemGetDto.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Dtos\\TodoItemGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:24:32.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItemPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemPostDto.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Dtos\\TodoItemPostDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemPostDto.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Dtos\\TodoItemPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:25:39.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITodoItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Services\\TodoItemsServices\\ITodoItemService.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Services\\TodoItemsServices\\ITodoItemService.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Services\\TodoItemsServices\\ITodoItemService.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Services\\TodoItemsServices\\ITodoItemService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:38:43.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Services\\TodoItemsServices\\TodoItemServiceImpl.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Services\\TodoItemsServices\\TodoItemServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Services\\TodoItemsServices\\TodoItemServiceImpl.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Services\\TodoItemsServices\\TodoItemServiceImpl.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwGcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:38:41.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Mapping\\MappingConfiguration.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Mapping\\MappingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Mapping\\MappingConfiguration.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Mapping\\MappingConfiguration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:42:27.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\CategoriaGetDto.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Dtos\\CategoriaGetDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\CategoriaGetDto.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Dtos\\CategoriaGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:39:05.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DtoTareaCategoriaGet.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\DtoTareaCategoriaGet.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Dtos\\DtoTareaCategoriaGet.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\DtoTareaCategoriaGet.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Dtos\\DtoTareaCategoriaGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:38:57.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoItemPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemPutDto.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\Dtos\\TodoItemPutDto.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\Dtos\\TodoItemPutDto.cs",
+              "RelativeToolTip": "DbFirstPrueba\\Dtos\\TodoItemPutDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:23:19.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\ModelsDatabase\\Categoria.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\ModelsDatabase\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\ModelsDatabase\\Categoria.cs",
+              "RelativeToolTip": "DbFirstPrueba\\ModelsDatabase\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:43:48.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\ModelsDatabase\\Usuario.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\ModelsDatabase\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\ModelsDatabase\\Usuario.cs",
+              "RelativeToolTip": "DbFirstPrueba\\ModelsDatabase\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:45:33.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\ModelsDatabase\\TodoItem.cs",
+              "RelativeDocumentMoniker": "DbFirstPrueba\\ModelsDatabase\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Niquitou\\Desktop\\TodoItems DbFirst \u002B Front\\DbFirstPrueba\\DbFirstPrueba\\ModelsDatabase\\TodoItem.cs",
+              "RelativeToolTip": "DbFirstPrueba\\ModelsDatabase\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:45:33.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
